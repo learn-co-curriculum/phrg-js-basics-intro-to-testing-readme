@@ -1,6 +1,10 @@
 tags:
-  - a tag
+  - testing
+  - integration
+  - end-to-end
+  - unit
+  - readme
 languages:
-  - a language
-resources: 
+  - javascript
+resources:
   - 0
