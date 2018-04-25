@@ -57,3 +57,4 @@ For now, we're taking a high-level view of testing. Why do we test? What are the
 We'll encounter several different types of tests over the course of the JavaScript curriculum, but most will fall into the first two categories above, _unit_ and _integration_ tests. If you get stuck on a lab, it's a great idea to open up the file containing the test suite and take a look. Once again: all of the tests are just JavaScript code! You will likely see some concepts and code libraries that are unfamiliar at this point, but the basic tenets of the language hold everywhere. Don't worry too much about understanding every single line in the test suite; just use it as a secondary material to supplement the instructions in the README.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-basics-intro-to-testing-readme'>Intro to Testing</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Intro to Testing</p>

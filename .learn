@@ -8,3 +8,5 @@ languages:
   - javascript
 resources:
   - 0
+
+parent_template: git@github.com:learn-co-curriculum/js-basics-intro-to-testing-readme.git
